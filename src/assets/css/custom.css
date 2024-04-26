@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:wght@300;400;500;700&display=swap");
+
+@import "BigSlider.css";
+@import "Button.css";
+@import "Card.css";
+@import "NavMenuDesktop.css";
+@import "NavMenuDesktop.css"; /* This line seems to be duplicated, you can remove it if necessary */
+@import "NavMenuMobile.css";
+@import "Footer.css";
+@import "typo.css";
+@import "responsive.css";
+@import "onboard.css";
+@import "common.css";
+@import "notification.css";
+
+body {
+  background-color: white;
+}
