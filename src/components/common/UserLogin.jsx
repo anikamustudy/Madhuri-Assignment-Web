@@ -22,7 +22,6 @@ class UserLogin extends Component {
                   sm={12}
                   xs={12}
                 >
-                
                   <Form className="onboardForm">
                     <h4 className="section-title-login"> USER SIGN IN </h4>
                     <h6 className="section-sub-title">
@@ -35,7 +34,7 @@ class UserLogin extends Component {
                     />
                     <Button className="btn btn-block m-2 site-btn-login">
                       {" "}
-                      Next{" "}
+                      Next{"  "}
                     </Button>
                   </Form>
                 </Col>
