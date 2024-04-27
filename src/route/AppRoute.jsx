@@ -17,6 +17,7 @@ class AppRoute extends Component {
           <Route exact path="/" component={HomePage} />
           <Route exact path="/login" component={UserLoginPage} />
           <Route exact path="/contact" component={ContactPage} />
+          <Route exact path="/home" component={HomePage} />
 
           <Route exact path="/purchase" component={PurchasePage} />
           <Route exact path="/privacy" component={PrivacyPage} />
