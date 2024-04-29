@@ -19,7 +19,6 @@ class App extends React.Component {
           <HomeSlider />
           <UserLogin />
           <FooterDesktop />
-          {/* <AppRoute /> */}
         </BrowserRouter>
       </Fragment>
     );
